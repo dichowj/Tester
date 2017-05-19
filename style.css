@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #D8D8D8;
+}
+
+.top {
+  height: 15%;
+  width: 100%;
+  background-color: #444;
+}
+
+.middle {
+  height: 75%;
+  width: 70%;
+  margin-left: 15%;
+  background-color: #EFEFEF;
+}
+
+.bottom {
+  height: 10%;
+  width: 70%;
+  margin-left: 15%;
+  background-color: #222;
+}
